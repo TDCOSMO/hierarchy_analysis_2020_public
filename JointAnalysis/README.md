@@ -5,3 +5,5 @@ Details on the TDCOSMO sample and analysis can be found in the folder TDCOSMO_sa
 The jupyter notebook sample_selection.ipynb performs the sample selection and makes the comparison between the SLACS and TDCOSMO sample.
 
 The jupyter notebook joint_inference.ipynb performs the joint inference.
+
+The jupyter notebook tdcosmo_comparison_plot.ipynb illustrates a figure comparing different TDCOSMO measurements under different assumptions and data sets.
